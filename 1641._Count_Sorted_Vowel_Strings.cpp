@@ -2,7 +2,6 @@
 A string s is lexicographically sorted if for all valid i, s[i] is the same as or comes before s[i+1] in the alphabet.
 
 Example:
-
 Input: n = 2
 Output: 15
 Explanation: The 15 sorted strings that consist of vowels only are
